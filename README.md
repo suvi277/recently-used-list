@@ -6,7 +6,7 @@ This repo is an example for Last in first out array in javascript method using j
 
 Clone the repo
 
-        $ git clone https://github.com/Shashikant86/Jasmine-Grunt-Setup.git
+        $ git clone https://github.com/suvi277/recently-used-list.git
         $ cd recently-array-list
 
 Now, Install the node dependencies
