@@ -1,0 +1,14 @@
+{
+  "version": "0.1.1",
+  "description": "A recently used list",
+  "engine": "node 1.1.x",
+  "dependencies": {
+    "jasmine": "*"
+  },
+  "devDependencies": {
+    "grunt-cli": "0.1.6",
+    "grunt": "~0.4.0",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-jasmine": "*"
+  }
+}
